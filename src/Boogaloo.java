@@ -1,3 +1,3 @@
-public class Boogaloo {
+public class Boogaloo implements Desconto {
 
 }
